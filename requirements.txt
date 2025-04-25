@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+openai
+torch>=1.10
+transformers
+pillow
+python-dotenv
